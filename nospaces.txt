@@ -1,5 +1,5 @@
 x:integer;
 y:double;
 x:=3;
-if(x<5)
-output<<x;
+y:=1.25;
+output<<x+y;
